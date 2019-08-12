@@ -1,0 +1,57 @@
+* {
+	margin: 0;
+}
+
+.container {
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 100px;
+}
+
+h1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h2 {
+	color: red;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ul {
+	font-size: 20px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	position:center;
+	list-style-position: inside;
+	
+}
+
+input {
+	margin: 10px;
+	float: center;
+	position: relative;
+	clear: right;
+}
+
+input[type=text] {
+	border: 2px solid black;
+	border-radius: 8px;
+	padding-down: 50px;
+	padding-left: 80px;
+	padding-top: 20px;
+	box-shadow: 2px 1px grey;
+	font-size: 15px;
+  text-align: center;
+    
+     }
+
+input[type=submit] {
+	background-color: light-grey; /* Green */
+  border: none;
+  border-radius:2px;
+  color: dark-grey;
+    padding: 15px 32px;
+  text-align: center;
+  text-decoration: none
+
+	
+	}
